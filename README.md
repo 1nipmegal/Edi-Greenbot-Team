@@ -37,8 +37,11 @@
 
 ΥΛΙΚΑ ΠΟΥ ΘΑ ΧΡΕΙΑΣΤΟΥΜΕ
  Edison Ρομπότ
+ 
  Πλακέτα micro:bit v2
+ 
  Makey Makey Standard Kit
+ 
  
 
 
